@@ -4,4 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/soundsDash.unity
+    guid: 7c8a1934c6d3891419ffe469d5df03e0
+  m_configObjects: {}
